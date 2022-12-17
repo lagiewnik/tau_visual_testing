@@ -1,0 +1,17 @@
+{
+  "name": "visual_testing_cy",
+  "version": "1.0.0",
+  "description": "Based on the course:\r https://testautomationu.applitools.com/automated-visual-testing-javascript-webdriverio/chapter3.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  },
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.27.8"
+  }
+}
